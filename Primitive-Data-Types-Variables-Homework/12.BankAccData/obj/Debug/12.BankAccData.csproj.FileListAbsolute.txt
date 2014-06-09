@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\12.BankAccData\bin\Debug\12.BankAccData.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\12.BankAccData\bin\Debug\12.BankAccData.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\12.BankAccData\bin\Debug\12.BankAccData.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\12.BankAccData\obj\Debug\12.BankAccData.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\12.BankAccData\obj\Debug\12.BankAccData.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\12.BankAccData\obj\Debug\12.BankAccData.pdb

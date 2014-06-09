@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\10.InCircleOutRectangle\bin\Debug\10.InCircleOutRectangle.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\10.InCircleOutRectangle\bin\Debug\10.InCircleOutRectangle.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\10.InCircleOutRectangle\bin\Debug\10.InCircleOutRectangle.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\10.InCircleOutRectangle\obj\Debug\10.InCircleOutRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\10.InCircleOutRectangle\obj\Debug\10.InCircleOutRectangle.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\10.InCircleOutRectangle\obj\Debug\10.InCircleOutRectangle.pdb

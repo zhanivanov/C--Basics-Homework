@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.pdb

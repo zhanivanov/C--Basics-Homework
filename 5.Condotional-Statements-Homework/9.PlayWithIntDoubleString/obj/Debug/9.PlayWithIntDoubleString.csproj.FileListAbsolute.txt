@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\9.PlayWithIntDoubleString\bin\Debug\9.PlayWithIntDoubleString.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\9.PlayWithIntDoubleString\bin\Debug\9.PlayWithIntDoubleString.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\9.PlayWithIntDoubleString\bin\Debug\9.PlayWithIntDoubleString.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\9.PlayWithIntDoubleString\obj\Debug\9.PlayWithIntDoubleString.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\9.PlayWithIntDoubleString\obj\Debug\9.PlayWithIntDoubleString.pdb

@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\11.EmployeeData\bin\Debug\11.EmployeeData.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\11.EmployeeData\bin\Debug\11.EmployeeData.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\11.EmployeeData\bin\Debug\11.EmployeeData.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\11.EmployeeData\obj\Debug\11.EmployeeData.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\11.EmployeeData\obj\Debug\11.EmployeeData.pdb

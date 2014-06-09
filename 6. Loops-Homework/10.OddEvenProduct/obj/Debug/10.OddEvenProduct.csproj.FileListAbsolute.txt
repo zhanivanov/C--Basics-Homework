@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\10.OddEvenProduct\bin\Debug\10.OddEvenProduct.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\10.OddEvenProduct\bin\Debug\10.OddEvenProduct.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\10.OddEvenProduct\bin\Debug\10.OddEvenProduct.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.pdb

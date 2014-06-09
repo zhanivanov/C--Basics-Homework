@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\GravityMoon\bin\Debug\GravityMoon.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\GravityMoon\bin\Debug\GravityMoon.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\GravityMoon\bin\Debug\GravityMoon.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\GravityMoon\obj\Debug\GravityMoon.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\GravityMoon\obj\Debug\GravityMoon.pdb

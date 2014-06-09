@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\DivideBy7and5\bin\Debug\DivideBy7and5.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\DivideBy7and5\bin\Debug\DivideBy7and5.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\DivideBy7and5\bin\Debug\DivideBy7and5.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\DivideBy7and5\obj\Debug\DivideBy7and5.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\DivideBy7and5\obj\Debug\DivideBy7and5.pdb

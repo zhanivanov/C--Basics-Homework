@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\7.Sum5Numbers\bin\Debug\7.Sum5Numbers.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\7.Sum5Numbers\bin\Debug\7.Sum5Numbers.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\7.Sum5Numbers\bin\Debug\7.Sum5Numbers.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\7.Sum5Numbers\obj\Debug\7.Sum5Numbers.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\7.Sum5Numbers\obj\Debug\7.Sum5Numbers.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\7.Sum5Numbers\obj\Debug\7.Sum5Numbers.csprojResolveAssemblyReference.cache

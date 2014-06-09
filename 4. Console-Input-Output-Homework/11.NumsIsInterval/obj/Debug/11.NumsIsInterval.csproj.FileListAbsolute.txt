@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\11.NumsIsInterval\bin\Debug\11.NumsIsInterval.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\11.NumsIsInterval\obj\Debug\11.NumsIsInterval.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\11.NumsIsInterval\bin\Debug\11.NumsIsInterval.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\11.NumsIsInterval\bin\Debug\11.NumsIsInterval.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\11.NumsIsInterval\obj\Debug\11.NumsIsInterval.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\11.NumsIsInterval\obj\Debug\11.NumsIsInterval.pdb

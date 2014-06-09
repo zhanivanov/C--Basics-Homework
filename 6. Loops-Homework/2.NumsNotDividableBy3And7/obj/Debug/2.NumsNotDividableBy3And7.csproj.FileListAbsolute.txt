@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\2.NumsNotDividableBy3And7\bin\Debug\2.NumsNotDividableBy3And7.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\2.NumsNotDividableBy3And7\bin\Debug\2.NumsNotDividableBy3And7.exe
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\2.NumsNotDividableBy3And7\bin\Debug\2.NumsNotDividableBy3And7.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\2.NumsNotDividableBy3And7\obj\Debug\2.NumsNotDividableBy3And7.exe
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\2.NumsNotDividableBy3And7\obj\Debug\2.NumsNotDividableBy3And7.pdb

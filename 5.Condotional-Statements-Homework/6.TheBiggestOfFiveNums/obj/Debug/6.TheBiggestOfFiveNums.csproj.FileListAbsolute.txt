@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\6.TheBiggestOfFiveNums\bin\Debug\6.TheBiggestOfFiveNums.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\6.TheBiggestOfFiveNums\bin\Debug\6.TheBiggestOfFiveNums.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\6.TheBiggestOfFiveNums\bin\Debug\6.TheBiggestOfFiveNums.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\6.TheBiggestOfFiveNums\obj\Debug\6.TheBiggestOfFiveNums.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\6.TheBiggestOfFiveNums\obj\Debug\6.TheBiggestOfFiveNums.pdb

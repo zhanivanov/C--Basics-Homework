@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFirstLastName\obj\Debug\PrintFirstLastName.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFirstLastName\obj\Debug\PrintFirstLastName.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFirstLastName\obj\Debug\PrintFirstLastName.pdb

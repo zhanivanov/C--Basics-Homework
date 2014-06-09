@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\10.FibonacciSequence\bin\Debug\10.FibonacciSequence.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\10.FibonacciSequence\bin\Debug\10.FibonacciSequence.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\10.FibonacciSequence\bin\Debug\10.FibonacciSequence.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\10.FibonacciSequence\obj\Debug\10.FibonacciSequence.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\10.FibonacciSequence\obj\Debug\10.FibonacciSequence.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\4. Console-Input-Output-Homework\10.FibonacciSequence\obj\Debug\10.FibonacciSequence.pdb

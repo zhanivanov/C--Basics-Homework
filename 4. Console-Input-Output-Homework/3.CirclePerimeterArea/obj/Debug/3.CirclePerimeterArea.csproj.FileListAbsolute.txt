@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\3.CirclePerimeterArea\bin\Debug\3.CirclePerimeterArea.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\3.CirclePerimeterArea\bin\Debug\3.CirclePerimeterArea.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\3.CirclePerimeterArea\bin\Debug\3.CirclePerimeterArea.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\3.CirclePerimeterArea\obj\Debug\3.CirclePerimeterArea.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\3.CirclePerimeterArea\obj\Debug\3.CirclePerimeterArea.pdb

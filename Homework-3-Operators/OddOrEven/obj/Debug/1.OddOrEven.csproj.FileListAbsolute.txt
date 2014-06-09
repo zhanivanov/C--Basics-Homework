@@ -1,0 +1,3 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\OddOrEven\bin\Debug\OddOrEven.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\OddOrEven\obj\Debug\OddOrEven.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Homework-3-Operators\OddOrEven\obj\Debug\OddOrEven.pdb

@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\7.SortThreeNums\bin\Debug\7.SortThreeNums.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\7.SortThreeNums\bin\Debug\7.SortThreeNums.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\7.SortThreeNums\bin\Debug\7.SortThreeNums.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\7.SortThreeNums\obj\Debug\7.SortThreeNums.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\7.SortThreeNums\obj\Debug\7.SortThreeNums.pdb

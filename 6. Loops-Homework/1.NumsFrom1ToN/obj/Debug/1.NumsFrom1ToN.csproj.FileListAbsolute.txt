@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\1.NumsFrom1ToN\bin\Debug\1.NumsFrom1ToN.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\1.NumsFrom1ToN\bin\Debug\1.NumsFrom1ToN.exe
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\1.NumsFrom1ToN\bin\Debug\1.NumsFrom1ToN.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\1.NumsFrom1ToN\obj\Debug\1.NumsFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\1.NumsFrom1ToN\obj\Debug\1.NumsFrom1ToN.exe
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\1.NumsFrom1ToN\obj\Debug\1.NumsFrom1ToN.pdb

@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb

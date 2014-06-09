@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

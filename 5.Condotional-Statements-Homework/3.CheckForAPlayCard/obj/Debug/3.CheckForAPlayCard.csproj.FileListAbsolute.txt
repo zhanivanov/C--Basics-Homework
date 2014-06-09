@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.exe
+c:\users\zhan\documents\visual studio 2013\Projects\5.Condotional-Statements-Homework\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.pdb

@@ -1,0 +1,5 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\4.VariableHexFormat\bin\Debug\4.VariableHexFormat.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\4.VariableHexFormat\bin\Debug\4.VariableHexFormat.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\4.VariableHexFormat\bin\Debug\4.VariableHexFormat.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\4.VariableHexFormat\obj\Debug\4.VariableHexFormat.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\4.VariableHexFormat\obj\Debug\4.VariableHexFormat.pdb

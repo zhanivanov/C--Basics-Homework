@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\5.UnicodeValue\bin\Debug\5.UnicodeValue.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\5.UnicodeValue\obj\Debug\5.UnicodeValue.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\5.UnicodeValue\bin\Debug\5.UnicodeValue.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\5.UnicodeValue\bin\Debug\5.UnicodeValue.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\5.UnicodeValue\obj\Debug\5.UnicodeValue.exe
+c:\users\zhan\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\5.UnicodeValue\obj\Debug\5.UnicodeValue.pdb

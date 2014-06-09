@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFullName\bin\Debug\PrintFullName.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFullName\bin\Debug\PrintFullName.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFullName\bin\Debug\PrintFullName.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFullName\obj\Debug\PrintFullName.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFullName\obj\Debug\PrintFullName.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFullName\obj\Debug\PrintFullName.csprojResolveAssemblyReference.cache

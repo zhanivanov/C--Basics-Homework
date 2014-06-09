@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\5.Condotional-Statements-Homework\11.NumsAsWords\bin\Debug\11.NumsAsWords.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\5.Condotional-Statements-Homework\11.NumsAsWords\bin\Debug\11.NumsAsWords.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\5.Condotional-Statements-Homework\11.NumsAsWords\bin\Debug\11.NumsAsWords.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\5.Condotional-Statements-Homework\11.NumsAsWords\obj\Debug\11.NumsAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\5.Condotional-Statements-Homework\11.NumsAsWords\obj\Debug\11.NumsAsWords.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\5.Condotional-Statements-Homework\11.NumsAsWords\obj\Debug\11.NumsAsWords.pdb

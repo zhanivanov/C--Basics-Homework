@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\6.CalculateNfactKfact\bin\Debug\6.CalculateNfactKfact.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\6.CalculateNfactKfact\bin\Debug\6.CalculateNfactKfact.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\6.CalculateNfactKfact\bin\Debug\6.CalculateNfactKfact.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\6.CalculateNfactKfact\obj\Debug\6.CalculateNfactKfact.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\6.CalculateNfactKfact\obj\Debug\6.CalculateNfactKfact.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\6. Loops-Homework\6.CalculateNfactKfact\obj\Debug\6.CalculateNfactKfact.pdb

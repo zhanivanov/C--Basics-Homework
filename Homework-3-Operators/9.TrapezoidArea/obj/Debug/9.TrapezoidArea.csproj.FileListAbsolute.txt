@@ -1,0 +1,5 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\9.TrapezoidArea\bin\Debug\9.TrapezoidArea.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\9.TrapezoidArea\bin\Debug\9.TrapezoidArea.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\9.TrapezoidArea\bin\Debug\9.TrapezoidArea.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\9.TrapezoidArea\obj\Debug\9.TrapezoidArea.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\Homework-3-Operators\9.TrapezoidArea\obj\Debug\9.TrapezoidArea.pdb

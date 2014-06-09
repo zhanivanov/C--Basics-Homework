@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\Sum3Int\bin\Debug\Sum3Int.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\Sum3Int\bin\Debug\Sum3Int.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\Sum3Int\bin\Debug\Sum3Int.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\Sum3Int\obj\Debug\Sum3Int.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\Sum3Int\obj\Debug\Sum3Int.exe
+c:\users\zhan\documents\visual studio 2013\Projects\4. Console-Input-Output-Homework\Sum3Int\obj\Debug\Sum3Int.pdb

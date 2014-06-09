@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\4.PrintDeckOfCards\bin\Debug\4.PrintDeckOfCards.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\4.PrintDeckOfCards\bin\Debug\4.PrintDeckOfCards.exe
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\4.PrintDeckOfCards\bin\Debug\4.PrintDeckOfCards.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\4.PrintDeckOfCards\obj\Debug\4.PrintDeckOfCards.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\4.PrintDeckOfCards\obj\Debug\4.PrintDeckOfCards.exe
+c:\users\zhan\documents\visual studio 2013\Projects\6. Loops-Homework\4.PrintDeckOfCards\obj\Debug\4.PrintDeckOfCards.pdb
